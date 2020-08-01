@@ -10,14 +10,10 @@ NOSSO NOVO IP
   arcadia.alemax.live
 ```
 
-Migramos do servidor vanilla de minecraft para o servidor [Spigot](https://www.spigotmc.org/) feito pela comunidade, assim podemos instalar plugins e features a mais em nossos servidores, além de permitir o login de clients sem a autenticaçao da Moyang.
+Migramos do servidor vanilla de minecraft para o servidor [Spigot](https://www.spigotmc.org/) feito pela comunidade, assim podemos instalar plugins e features a mais em nossos servidores.
 
 Aproveitamos e migramos para um vps mais barata e com mais memoria e processamento, agora os nossos custos com servidores vão ser de apenas $10 por mês, um sistema de monetização e ajuda para pagar isso vai vir nos proximos updates.  
 
-Respeitem as construções ate o proximo update em que adicionaremos as permissões customizadas.
-
-### - Possibilidade de Login usando outros launchers
-Outros launchers de minecraft com usuarios não autenticados agora são permitidos, porém por favor escolha um nick que seja unico seu. 
 
 ### - Adicionado EssentialsX possibilitando:
 
