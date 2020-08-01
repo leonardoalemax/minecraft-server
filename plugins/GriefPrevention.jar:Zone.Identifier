@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/TechFortress/GriefPrevention/releases/tag/16.8
+HostUrl=https://github-production-release-asset-2e65be.s3.amazonaws.com/68339667/bc1b05e6-e7c0-11e7-8d04-b6c4a0d8859d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200801T134501Z&X-Amz-Expires=300&X-Amz-Signature=cd45bcff954bb497f1de2fdc80e8bb436effb5741c92e45bdaf88236d1c602ce&X-Amz-SignedHeaders=host&actor_id=3322092&repo_id=68339667&response-content-disposition=attachment%3B%20filename%3DGriefPrevention.jar&response-content-type=application%2Foctet-stream
